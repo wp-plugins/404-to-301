@@ -1,0 +1,78 @@
+=== 404 to 301 ===
+Contributors: joelcj91
+Tags: 404, 301, 302, 307, not found, 404 redirect, 404 to 301, 301 redirect
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XUVWY8HUBUXY4
+Requires at least: 3.0.1
+Tested up to: 3.9.1
+Stable tag: 1.0.0
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Automatically redirect all 404 page errors to any page using 301 redirect for SEO.
+
+== Description ==
+
+If your website has some 404 error pages then it will affect your SEO badly. Users will leave your site if they get 404 not found error.
+
+Using this plugin you can redirect users or Google bot to any other pages using 301 redirect method. That will show them as permanently moved and it is good for SEO.
+
+Also you can use 302 and 307 redirect too (Temporary redirect method).
+
+
+Features of 404 to 301 plugin are,
+
+ * You can use any link to redirect.
+ * No more 404 errors.
+ * You can choose which redirect method to be used (301,302,307).
+ * Will not irritate your visitors if they type a non existing page url.
+ * Light weight.
+ * Increase your SEO by telling google that all 404 pages are moved to some other page.
+ * Quick <a href="http://www.joelsays.com/contact-me/">Direct Support</a>.
+ * Free to use with lifetime updates.
+ * More feature coming soon.. (You can suggest also)
+
+ 
+== Support ==
+
+Current Version: 1.0.0
+
+Author: Joel James
+Author URI: http://www.joelsays.com/
+
+
+== Installation ==
+
+1. Upload `404 to 301` plug-in zip file to the `/wp-content/plugins/` directory
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. You will see a options menu "401 to 301" under settings tab. Go there.
+4. Choose which type redirection you want (301 recommended).
+5. Enter a link to where you want your users to get redirected.
+6. Save it by clicking on "Update Options".
+
+== Screenshots ==
+
+1. **Settings** - Settings page of 404 to 301.
+
+== Frequently Asked Questions ==
+
+= What is the use of 404 to 301? =
+
+It will increase your SEO by redirecting using 301.
+
+
+= What type of redirection is used? =
+
+You can choose redirection types like 301,302 and 307.
+
+
+== Changelog ==
+
+= 1.0.0 =
+* Added first version with basic options.
+
+
+
+== Upgrade Notice ==
+
+= 1.0.0 =
+Added first version.
