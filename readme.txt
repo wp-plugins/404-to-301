@@ -4,7 +4,7 @@ Tags: 404, 301, 302, 307, not found, 404 redirect, 404 to 301, 301 redirect
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XUVWY8HUBUXY4
 Requires at least: 3.0.1
 Tested up to: 3.9.1
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -14,12 +14,12 @@ Automatically redirect all 404 page errors to any page using 301 redirect for SE
 
 If your website has some 404 error pages then it will affect your SEO badly. Users will leave your site if they get 404 not found error.
 
-Using this plugin you can redirect users or Google bot to any other pages using 301 redirect method. That will show them as permanently moved and it is good for SEO.
+Using <a href="http://www.joelsays.com/plugins/404-to-301/">this plugin</a> you can redirect users or Google bot to any other pages using 301 redirect method. That will show them as permanently moved and it is good for SEO.
 
 Also you can use 302 and 307 redirect too (Temporary redirect method).
 
 
-Features of 404 to 301 plugin are,
+Features of <a href="http://www.joelsays.com/plugins/404-to-301/">404 to 301</a> plugin are,
 
  * You can use any link to redirect.
  * No more 404 errors.
@@ -34,10 +34,11 @@ Features of 404 to 301 plugin are,
  
 == Support ==
 
-Current Version: 1.0.0
+Current Version: 1.0.1
 
 Author: Joel James
 Author URI: http://www.joelsays.com/
+<a href="http://www.joelsays.com/plugins/404-to-301/">Plugin Website</a>
 
 
 == Installation ==
@@ -70,9 +71,12 @@ You can choose redirection types like 301,302 and 307.
 = 1.0.0 =
 * Added first version with basic options.
 
+= 1.0.1 =
+* Added official website details.
+
 
 
 == Upgrade Notice ==
 
-= 1.0.0 =
-Added first version.
+= 1.0.1 =
+Added <a href="http://www.joelsays.com/plugins/404-to-301/">official website</a> details.
