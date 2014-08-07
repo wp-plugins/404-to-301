@@ -45,7 +45,7 @@
 </td><td width="30%" align="center">
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XUVWY8HUBUXY4" target="_blank"><img src="https://www.paypal.com/en_US/i/btn/btn_donate_LG.gif"></a><br/>
 <h4>If you think my plugin is useful, please consider a small donation.</h4>
-<h3>Feel free to use <a href="www.joelsays.com/members-area/support/plugin-support-404-to-301/" target="_blank">Support Forum </a>if you have any doubts or feedback</h4></td>
+<h3>Feel free to use <a href="http://www.joelsays.com/members-area/support/plugin-support-404-to-301/" target="_blank">Support Forum </a>if you have any doubts or feedback</h4></td>
 </tr></table></div>
 <br/><br><hr/>
 <div align='center'>

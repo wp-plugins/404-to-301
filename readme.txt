@@ -4,7 +4,7 @@ Tags: 404, 301, 302, 307, not found, 404 redirect, 404 to 301, 301 redirect
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XUVWY8HUBUXY4
 Requires at least: 3.0.1
 Tested up to: 3.9.1
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -27,14 +27,14 @@ Features of <a href="http://www.joelsays.com/plugins/404-to-301/">404 to 301</a>
  * Will not irritate your visitors if they type a non existing page url.
  * Light weight.
  * Increase your SEO by telling google that all 404 pages are moved to some other page.
- * Quick <a href="www.joelsays.com/members-area/support/plugin-support-404-to-301">Direct Support Forum</a>.
+ * Quick <a href="http://www.joelsays.com/members-area/support/plugin-support-404-to-301/">Direct Support Forum</a>.
  * Free to use with lifetime updates.
  * More feature coming soon.. (You can suggest also)
 
  
 == Support ==
 
-Current Version: 1.0.2
+Current Version: 1.0.3
 
 Author: Joel James
 Author URI: http://www.joelsays.com/
@@ -74,12 +74,12 @@ You can choose redirection types like 301,302 and 307.
 = 1.0.1 =
 * Added official website details.
 
-= 1.0.2 =
+= 1.0.3 =
 * Added official support forum.
 
 
 
 == Upgrade Notice ==
 
-= 1.0.2 =
-Added <a href="www.joelsays.com/members-area/support/plugin-support-404-to-301">Support Forum</a> details.
+= 1.0.3 =
+Added <a href="http://www.joelsays.com/members-area/support/plugin-support-404-to-301/">Support Forum</a> details.
