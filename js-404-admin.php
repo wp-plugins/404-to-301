@@ -6,7 +6,7 @@
 	if (!current_user_can('manage_options'))  {
 		wp_die( __('You do not have sufficient permissions to access this page.') );
 	}
-    if(isset($_POST['oscimp_hidden']) && $_POST['oscimp_hidden'] == 'Y') {
+    if(isset($_POST['js_hidden']) && $_POST['js_hidden'] == 'Y') {
         $type = $_POST['type'];
         update_option('type', $type);
 		
@@ -27,7 +27,7 @@
     <?php    echo "<h3>" . __( '404 to 301', 'oscimp_trdom' ) . " <a href='http://www.joelsays.com/' target='_blank'>Plugin Website</a></h3><h4>More features are coming soon !!</h4>"; ?>
     <hr/>
 	<form name="oscimp_form" method="post" action="<?php echo str_replace( '%7E', '~', $_SERVER['REQUEST_URI']); ?>">
-        <input type="hidden" name="oscimp_hidden" value="Y">
+        <input type="hidden" name="js_hidden" value="Y">
         <?php    echo "<h4>" . __( 'Redirect Type Settings', 'oscimp_trdom' ) . "</h4>"; ?>
         <p><?php _e("Type of redirect : " ); ?><select name='type' id='type'>
 		<option value='301' <?php if($type=='301'){echo 'selected';}?>>301 Permanent</option>

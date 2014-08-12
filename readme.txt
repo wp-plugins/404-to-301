@@ -4,7 +4,7 @@ Tags: 404, 301, 302, 307, not found, 404 redirect, 404 to 301, 301 redirect
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XUVWY8HUBUXY4
 Requires at least: 3.0.1
 Tested up to: 3.9.1
-Stable tag: 1.0.3
+Stable tag: 1.0.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -29,16 +29,17 @@ Features of <a href="http://www.joelsays.com/plugins/404-to-301/">404 to 301</a>
  * Increase your SEO by telling google that all 404 pages are moved to some other page.
  * Quick <a href="http://www.joelsays.com/members-area/support/plugin-support-404-to-301/">Direct Support Forum</a>.
  * Free to use with lifetime updates.
- * More feature coming soon.. (You can suggest also)
+ * More feature coming soon.. (Suggest a feature <a href="http://www.joelsays.com/members-area/support/plugin-support-404-to-301/">here</a>)
 
  
 == Support ==
 
-Current Version: 1.0.3
+Current Version: 1.0.4
 
 Author: Joel James
-Author URI: http://www.joelsays.com/
-<a href="http://www.joelsays.com/plugins/404-to-301/">Plugin Website</a>
+Author URI: http://www.joelsays.com/ <br/>
+<a href="http://www.joelsays.com/plugins/404-to-301/">Plugin Website</a><br/>
+<a href="http://www.joelsays.com/members-area/support/plugin-support-404-to-301/">Plugin Support</a>
 
 
 == Installation ==
@@ -68,18 +69,23 @@ You can choose redirection types like 301,302 and 307.
 
 == Changelog ==
 
-= 1.0.0 =
-* Added first version with basic options.
-
-= 1.0.1 =
-* Added official website details.
+= 1.0.4 =
+* Bug fix.
+* Fixed conflicts with other plugins.
 
 = 1.0.3 =
 * Added official support forum.
 
+= 1.0.1 =
+* Added official website details.
+
+= 1.0.0 =
+* Added first version with basic options.
 
 
 == Upgrade Notice ==
 
-= 1.0.3 =
-Added <a href="http://www.joelsays.com/members-area/support/plugin-support-404-to-301/">Support Forum</a> details.
+= 1.0.4 =
+
+* Bug fix.
+* Fixed conflicts with other plugins.
