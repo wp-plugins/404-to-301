@@ -5,7 +5,7 @@
   Plugin URI: http://www.joelsays.com/plugins/404-to-301/
   Description: Redirect all 404 pages to any page using 301 redirect.
   Author: Joel James
-  Version: 1.0.4
+  Version: 1.0.5
   Author URI: http://www.joelsays.com/about/
   Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XUVWY8HUBUXY4
   Copyright (c) 2014 Joel James
@@ -51,7 +51,7 @@ if(!function_exists('js_404_start_redirect')) {
 function js_404_start_redirect() {
     if (get_option('js_404_activation_redirect', false)):
         delete_option('js_404_activation_redirect');
-        wp_redirect('options-general.php?page=admin.php');
+        wp_redirect('options-general.php?page=js-options');
     endif;
 }
 }
@@ -60,7 +60,7 @@ if(!function_exists('js_404_action_links')) {
 function js_404_action_links($links, $file) {
     $plugin_file = basename(__FILE__);
     if (basename($file) == $plugin_file) :
-		$settings_link = '<a href="options-general.php?page=admin.php">Settings</a>';
+		$settings_link = '<a href="options-general.php?page=js-options">Settings</a>';
 		array_unshift($links, $settings_link);
     endif;
     return $links;
