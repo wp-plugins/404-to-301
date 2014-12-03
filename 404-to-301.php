@@ -3,9 +3,9 @@
 /*
   Plugin Name: 404 to 301
   Plugin URI: http://www.joelsays.com/plugins/404-to-301/
-  Description: Redirect all 404 pages to any page using 301 redirect.
+  Description: Automatically redirect all 404 page errors to any page using 301 redirect for SEO. No more 404 Errors in WebMaster tool.
   Author: Joel James
-  Version: 1.0.5
+  Version: 1.0.6
   Author URI: http://www.joelsays.com/about/
   Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XUVWY8HUBUXY4
   Copyright (c) 2014 Joel James
