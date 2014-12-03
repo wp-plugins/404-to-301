@@ -1,6 +1,6 @@
 === 404 to 301 ===
 Contributors: joelcj91,joelsays
-Tags: 404, 301, 302, 307, not found, 404 redirect, 404 to 301, 301 redirect
+Tags: 404, 301, 302, 307, not found, 404 redirect, 404 to 301, 301 redirect, seo
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XUVWY8HUBUXY4
 Requires at least: 3.0.1
 Tested up to: 4.0.1
@@ -8,7 +8,7 @@ Stable tag: 1.0.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Automatically redirect all 404 page errors to any page using 301 redirect for SEO.
+Automatically redirect all 404 page errors to any page using 301 redirect for SEO. No more 404 Errors in WebMaster tool.
 
 == Description ==
 
