@@ -18,7 +18,7 @@
         <?php
     } else {
         $type = get_option('type');
-        $username = get_option('link');
+        $link = get_option('link');
     }
 ?>
 <div class="wrap">
