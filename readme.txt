@@ -4,7 +4,7 @@ Tags: 404, 301, 302, 307, not found, 404 redirect, 404 to 301, 301 redirect, seo
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XUVWY8HUBUXY4
 Requires at least: 3.0.1
 Tested up to: 4.2
-Stable tag: 1.0.7
+Stable tag: 1.0.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -34,7 +34,7 @@ Features of <a href="http://www.joelsays.com/plugins/404-to-301/">404 to 301</a>
  
 == Support ==
 
-Current Version: 1.0.7
+Current Version: 1.0.8
 
 Author: Joel James
 Author URI: http://www.joelsays.com/ <br/>
@@ -69,6 +69,10 @@ You can choose redirection types like 301,302 and 307.
 
 == Changelog ==
 
+= 1.0.8 =
+* Very minor bug fix
+* Tested for WP 4.2
+
 = 1.0.7 =
 * Fixed options saving issue in admin page.
 * Improved performance.
@@ -97,6 +101,6 @@ You can choose redirection types like 301,302 and 307.
 
 == Upgrade Notice ==
 
-= 1.0.6 =
-* Tested with latest version.
-* Improved structure.
+= 1.0.8 =
+* Very minor bug fix
+* Tested for WP 4.2
